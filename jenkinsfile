@@ -1,4 +1,4 @@
-node{
+pipeline {
 	stage('Build'){
 		sh 'echo Hello world we are building!!'
 	}
